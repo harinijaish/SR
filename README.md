@@ -43,7 +43,7 @@ Step 3: Run ESRGAN (esrgan.ipynb) or EDSR (example-wdsr.ipynb) or WDSR (example-
 
 Note: You can skip training the models and directly use the model weights. 
 
-### Test with your own input images
+### Test with your own input image
 
 In order to run with your own input, resize the input image to width: 124 and height 118 pixels. 
 Store the input image inside the demo folder and run the following code cell:
